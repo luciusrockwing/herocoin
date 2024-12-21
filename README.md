@@ -1,0 +1,2 @@
+# herocoin
+HRC
